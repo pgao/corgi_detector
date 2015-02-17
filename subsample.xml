@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='data/positive/subsample/flickr_003.jpg'>
+    <box top='27' left='225' width='178' height='207'/>
+  </image>
+  <image file='data/positive/subsample/flickr_007.jpg'>
+    <box top='50' left='150' width='167' height='207'/>
+  </image>
+  <image file='data/positive/subsample/flickr_009.jpg'>
+    <box top='22' left='52' width='239' height='408'/>
+  </image>
+  <image file='data/positive/subsample/flickr_015.jpg'>
+    <box top='94' left='75' width='326' height='300'/>
+  </image>
+  <image file='data/positive/subsample/flickr_030.jpg'>
+    <box top='5' left='175' width='184' height='196'/>
+  </image>
+  <image file='data/positive/subsample/flickr_056.jpg'>
+    <box top='15' left='141' width='193' height='214'/>
+  </image>
+  <image file='data/positive/subsample/flickr_082.jpg'>
+    <box top='48' left='151' width='136' height='171'/>
+  </image>
+  <image file='data/positive/subsample/flickr_084.jpg'>
+    <box top='2' left='47' width='375' height='331'/>
+  </image>
+  <image file='data/positive/subsample/flickr_092.jpg'>
+    <box top='52' left='167' width='186' height='248'/>
+  </image>
+  <image file='data/positive/subsample/google_006.jpg'>
+    <box top='14' left='129' width='149' height='192'/>
+  </image>
+  <image file='data/positive/subsample/google_015.jpg'>
+    <box top='35' left='394' width='158' height='209'/>
+  </image>
+  <image file='data/positive/subsample/google_018.jpg'>
+    <box top='58' left='681' width='682' height='778'/>
+  </image>
+  <image file='data/positive/subsample/google_027.jpg'>
+    <box top='197' left='617' width='349' height='469'/>
+  </image>
+  <image file='data/positive/subsample/google_034.jpg'>
+    <box top='2' left='376' width='441' height='473'/>
+  </image>
+  <image file='data/positive/subsample/google_059.jpg'>
+    <box top='54' left='137' width='198' height='246'/>
+  </image>
+  <image file='data/positive/subsample/google_064.jpg'>
+    <box top='1' left='146' width='164' height='196'/>
+  </image>
+</images>
+</dataset>

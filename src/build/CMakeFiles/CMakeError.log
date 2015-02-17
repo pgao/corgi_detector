@@ -1,0 +1,20 @@
+Determining if the function sgetrf_single exists failed with the following output:
+Change Dir: /Users/pgao/programming/corgi_detector/src/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec1484270157/fast"
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTryCompileExec1484270157.dir/build.make CMakeFiles/cmTryCompileExec1484270157.dir/build
+/usr/local/Cellar/cmake/3.1.1_1/bin/cmake -E cmake_progress_report /Users/pgao/programming/corgi_detector/src/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1484270157.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -Qunused-arguments  -DCHECK_FUNCTION_EXISTS=sgetrf_single   -o CMakeFiles/cmTryCompileExec1484270157.dir/CheckFunctionExists.c.o   -c /usr/local/Cellar/cmake/3.1.1_1/share/cmake/Modules/CheckFunctionExists.c
+Linking C executable cmTryCompileExec1484270157
+/usr/local/Cellar/cmake/3.1.1_1/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1484270157.dir/link.txt --verbose=1
+/usr/bin/cc  -Qunused-arguments  -DCHECK_FUNCTION_EXISTS=sgetrf_single -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cmTryCompileExec1484270157.dir/CheckFunctionExists.c.o  -o cmTryCompileExec1484270157  /usr/lib/libcblas.dylib 
+Undefined symbols for architecture x86_64:
+  "_sgetrf_single", referenced from:
+      _main in CheckFunctionExists.c.o
+ld: symbol(s) not found for architecture x86_64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+make[1]: *** [cmTryCompileExec1484270157] Error 1
+make: *** [cmTryCompileExec1484270157/fast] Error 2
+
+

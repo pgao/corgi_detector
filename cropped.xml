@@ -1,0 +1,320 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_003_0000_0235_0029_0167_0187.jpg'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_005_0000_0106_0001_0248_0313.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_007_0000_0142_0038_0179_0236.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_008_0000_0089_0071_0168_0203.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_009_0000_0030_0034_0274_0400.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_013_0000_0119_0176_0103_0097.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_013_0000_0125_0177_0095_0090.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_013_0000_0145_0089_0064_0080.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_013_0000_0208_0087_0068_0086.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_013_0000_0238_0168_0091_0100.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_013_0000_0288_0091_0087_0087.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_014_0000_0333_0036_0143_0153.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_015_0000_0079_0087_0330_0298.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_016_0000_0028_0032_0245_0234.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_018_0000_0107_0001_0333_0286.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_019_0000_0194_0112_0092_0056.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_020_0000_0217_0094_0070_0110.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_021_0000_0011_0048_0276_0260.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_022_0000_0027_0032_0310_0294.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_023_0000_0133_0041_0274_0319.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_024_0000_0229_0028_0143_0218.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_025_0000_0009_0000_0318_0294.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_026_0000_0048_0194_0074_0072.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_026_0000_0148_0232_0074_0097.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_026_0000_0223_0232_0070_0079.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_026_0000_0286_0188_0074_0086.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_026_0000_0332_0237_0090_0061.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_028_0000_0066_0094_0206_0228.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_029_0000_0195_0046_0180_0181.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_030_0000_0174_0005_0184_0156.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_031_0000_0003_0043_0297_0312.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_032_0000_0110_0171_0129_0177.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_033_0000_0031_0024_0332_0318.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_034_0000_0093_0062_0086_0097.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_034_0000_0214_0016_0072_0104.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_035_0000_0099_0067_0167_0119.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_035_0000_0240_0028_0180_0174.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_036_0000_0006_0008_0266_0260.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_037_0000_0182_0043_0130_0140.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_037_0000_0198_0193_0112_0105.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_038_0000_0085_0118_0069_0041.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_040_0000_0055_0000_0318_0323.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_041_0000_0011_0072_0096_0093.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_041_0000_0098_0037_0084_0090.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_041_0000_0177_0031_0083_0107.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_041_0000_0274_0065_0083_0087.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_041_0000_0383_0026_0086_0085.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_042_0000_0131_0070_0207_0171.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_044_0000_0010_0000_0456_0458.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_045_0000_0000_0000_0330_0277.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_048_0000_0199_0036_0101_0122.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_049_0000_0026_0128_0188_0184.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_049_0000_0214_0018_0230_0257.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_050_0000_0327_0111_0077_0120.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_051_0000_0077_0067_0085_0103.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_051_0000_0349_0058_0076_0094.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_052_0000_0155_0043_0287_0235.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_053_0000_0107_0003_0228_0274.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_054_0000_0222_0138_0088_0101.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_055_0000_0114_0044_0183_0147.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_056_0000_0142_0014_0195_0191.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_057_0000_0036_0045_0211_0180.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_058_0000_0037_0104_0165_0234.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_059_0000_0095_0014_0223_0213.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_063_0000_0083_0001_0162_0188.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_064_0000_0068_0040_0202_0189.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_065_0000_0043_0038_0284_0238.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_066_0000_0040_0001_0264_0307.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_069_0000_0166_0049_0221_0191.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_072_0000_0000_0052_0191_0212.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_072_0000_0227_0085_0223_0199.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_074_0000_0037_0026_0170_0142.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_075_0000_0166_0003_0117_0179.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_077_0000_0209_0123_0090_0070.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_078_0000_0040_0109_0271_0189.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_079_0000_0040_0005_0362_0367.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_080_0000_0154_0010_0329_0219.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_081_0000_0068_0140_0269_0290.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_082_0000_0153_0037_0136_0182.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_083_0000_0073_0113_0089_0082.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_084_0000_0037_0015_0399_0280.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_086_0000_0235_0000_0183_0202.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_087_0000_0242_0094_0097_0108.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_088_0000_0037_0158_0158_0169.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_088_0000_0071_0036_0113_0122.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_088_0000_0172_0045_0118_0120.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_088_0000_0217_0174_0166_0164.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_088_0000_0314_0028_0126_0134.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_089_0000_0191_0057_0166_0189.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_090_0000_0031_0013_0254_0370.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_092_0000_0165_0063_0199_0205.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_094_0000_0000_0050_0309_0266.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_095_0000_0113_0000_0270_0219.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_096_0000_0176_0130_0061_0092.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_097_0000_0056_0045_0140_0172.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_097_0000_0199_0056_0129_0182.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/flickr_097_0000_0335_0051_0138_0174.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_001_0000_0021_0008_0266_0205.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_002_0000_0185_0074_0420_0499.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_003_0000_0320_0076_0804_0793.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_004_0000_0260_0107_0278_0386.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_004_0000_0488_0127_0330_0418.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_004_0000_0845_0133_0293_0377.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_005_0000_0084_0031_0459_0425.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_006_0000_0119_0007_0169_0188.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_007_0000_0036_0000_0145_0142.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_008_0000_1529_0100_0560_0709.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_010_0000_0183_0003_0318_0340.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_011_0000_0079_0002_0412_0384.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_012_0000_0143_0002_0253_0199.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_013_0000_0721_0177_0247_0298.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_014_0000_0052_0001_0248_0221.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_015_0000_0389_0034_0169_0190.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_016_0000_0052_0023_0305_0351.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_018_0000_0689_0080_0676_0738.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_019_0000_0086_0001_0273_0303.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_020_0000_0095_0034_0213_0207.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_021_0000_0052_0081_0485_0348.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_022_0000_0124_0126_0373_0338.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_023_0000_0128_0067_0433_0368.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_024_0000_0103_0003_0129_0120.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_025_0000_0150_0011_1005_0652.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_026_0000_0070_0064_0266_0203.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_027_0000_0593_0200_0388_0443.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_028_0000_0056_0000_0236_0199.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_030_0000_0067_0061_0094_0093.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_031_0000_0101_0122_0608_0545.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_032_0000_0152_0027_0181_0154.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_033_0000_0064_0031_0096_0117.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_033_0000_0152_0050_0149_0137.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_034_0000_0383_0005_0461_0475.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_035_0000_0652_0135_0305_0310.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_036_0000_0060_0004_0284_0302.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_037_0000_0010_0030_0116_0171.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_038_0000_0349_0215_0086_0171.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_039_0000_0683_0115_0211_0246.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_042_0000_0716_0040_0211_0237.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_044_0000_0715_0092_0728_0670.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_048_0000_0085_0064_0259_0254.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_050_0000_0543_0004_0679_0701.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_052_0000_0251_0011_0451_0436.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_054_0000_0011_0001_0318_0221.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_055_0000_0000_0035_0055_0058.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_055_0000_0076_0158_0100_0076.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_055_0000_0087_0090_0065_0050.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_055_0000_0204_0168_0064_0067.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_055_0000_0213_0052_0046_0064.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_055_0000_0249_0096_0060_0066.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_055_0000_0290_0149_0059_0076.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_056_0000_0087_0066_0510_0533.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_057_0000_0156_0021_0240_0213.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_058_0000_0316_0010_0159_0161.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_059_0000_0129_0061_0221_0246.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_060_0000_0009_0000_0169_0159.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_061_0000_0089_0141_0133_0106.png'>
+  </image>
+  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/cropped/google_064_0000_0137_0003_0181_0176.png'>
+  </image>
+</images>
+</dataset>

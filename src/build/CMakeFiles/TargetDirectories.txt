@@ -1,0 +1,2 @@
+/Users/pgao/programming/corgi_detector/src/build/CMakeFiles/train_object_detector.dir
+/Users/pgao/programming/corgi_detector/src/build/dlib_build/CMakeFiles/dlib.dir
