@@ -4,38 +4,38 @@
 <name>imglab dataset</name>
 <comment>Created by imglab tool.</comment>
 <images>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_002.jpg'>
+  <image file='data/positive/flickr_002.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_003.jpg'>
+  <image file='data/positive/flickr_003.jpg'>
     <box top='27' left='228' width='178' height='198'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_004.jpg'>
+  <image file='data/positive/flickr_004.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_005.jpg'>
+  <image file='data/positive/flickr_005.jpg'>
     <box top='2' left='101' width='257' height='313'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_007.jpg'>
+  <image file='data/positive/flickr_007.jpg'>
     <box top='45' left='140' width='178' height='204'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_008.jpg'>
+  <image file='data/positive/flickr_008.jpg'>
     <box top='67' left='74' width='188' height='208'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_009.jpg'>
+  <image file='data/positive/flickr_009.jpg'>
     <box top='34' left='60' width='232' height='400'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_012.jpg'>
+  <image file='data/positive/flickr_012.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_013.jpg'>
+  <image file='data/positive/flickr_013.jpg'>
     <box top='95' left='144' width='65' height='70'>
       <label>corgi</label>
     </box>
@@ -52,53 +52,53 @@
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_014.jpg'>
+  <image file='data/positive/flickr_014.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_015.jpg'>
+  <image file='data/positive/flickr_015.jpg'>
     <box top='106' left='49' width='374' height='284'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_016.jpg'>
+  <image file='data/positive/flickr_016.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_018.jpg'>
+  <image file='data/positive/flickr_018.jpg'>
     <box top='0' left='109' width='338' height='269'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_019.jpg'>
+  <image file='data/positive/flickr_019.jpg'>
     <box top='114' left='190' width='89' height='57'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_020.jpg'>
+  <image file='data/positive/flickr_020.jpg'>
     <box top='85' left='210' width='85' height='125'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_021.jpg'>
+  <image file='data/positive/flickr_021.jpg'>
     <box top='56' left='17' width='270' height='243'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_022.jpg'>
+  <image file='data/positive/flickr_022.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_023.jpg'>
+  <image file='data/positive/flickr_023.jpg'>
     <box top='44' left='133' width='292' height='305'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_024.jpg'>
+  <image file='data/positive/flickr_024.jpg'>
     <box top='39' left='229' width='145' height='185'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_025.jpg'>
+  <image file='data/positive/flickr_025.jpg'>
     <box top='-3' left='14' width='306' height='273'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_026.jpg'>
+  <image file='data/positive/flickr_026.jpg'>
     <box top='192' left='39' width='86' height='83'>
       <label>corgi</label>
     </box>
@@ -121,31 +121,31 @@
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_028.jpg'>
+  <image file='data/positive/flickr_028.jpg'>
     <box top='101' left='58' width='228' height='214'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_029.jpg'>
+  <image file='data/positive/flickr_029.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_030.jpg'>
+  <image file='data/positive/flickr_030.jpg'>
     <box top='7' left='168' width='196' height='167'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_031.jpg'>
+  <image file='data/positive/flickr_031.jpg'>
     <box top='36' left='0' width='308' height='321'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_032.jpg'>
+  <image file='data/positive/flickr_032.jpg'>
     <box top='167' left='105' width='143' height='189'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_033.jpg'>
+  <image file='data/positive/flickr_033.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_034.jpg'>
+  <image file='data/positive/flickr_034.jpg'>
     <box top='67' left='92' width='81' height='82'>
       <label>corgi</label>
     </box>
@@ -153,17 +153,17 @@
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_035.jpg'>
+  <image file='data/positive/flickr_035.jpg'>
     <box top='25' left='250' width='181' height='178'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_036.jpg'>
+  <image file='data/positive/flickr_036.jpg'>
     <box top='4' left='9' width='242' height='249'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_037.jpg'>
+  <image file='data/positive/flickr_037.jpg'>
     <box top='47' left='194' width='100' height='125'>
       <label>corgi</label>
     </box>
@@ -171,11 +171,11 @@
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_038.jpg'>
+  <image file='data/positive/flickr_038.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_040.jpg'>
+  <image file='data/positive/flickr_040.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_041.jpg'>
+  <image file='data/positive/flickr_041.jpg'>
     <box top='81' left='10' width='93' height='75'>
       <label>corgi</label>
     </box>
@@ -192,32 +192,32 @@
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_042.jpg'>
+  <image file='data/positive/flickr_042.jpg'>
     <box top='68' left='124' width='211' height='189'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_044.jpg'>
+  <image file='data/positive/flickr_044.jpg'>
     <box top='-3' left='8' width='467' height='457'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_045.jpg'>
+  <image file='data/positive/flickr_045.jpg'>
     <box top='-15' left='-1' width='328' height='283'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_047.jpg'>
+  <image file='data/positive/flickr_047.jpg'>
     <box top='-3' left='185' width='168' height='190'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_048.jpg'>
+  <image file='data/positive/flickr_048.jpg'>
     <box top='38' left='206' width='106' height='136'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_049.jpg'>
+  <image file='data/positive/flickr_049.jpg'>
     <box top='29' left='201' width='226' height='271'>
       <label>corgi</label>
     </box>
@@ -225,9 +225,9 @@
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_050.jpg'>
+  <image file='data/positive/flickr_050.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_051.jpg'>
+  <image file='data/positive/flickr_051.jpg'>
     <box top='80' left='66' width='105' height='73'>
       <label>corgi</label>
     </box>
@@ -235,116 +235,116 @@
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_052.jpg'>
+  <image file='data/positive/flickr_052.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_053.jpg'>
+  <image file='data/positive/flickr_053.jpg'>
     <box top='6' left='98' width='243' height='267'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_054.jpg'>
+  <image file='data/positive/flickr_054.jpg'>
     <box top='132' left='219' width='84' height='97'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_055.jpg'>
+  <image file='data/positive/flickr_055.jpg'>
     <box top='45' left='111' width='182' height='154'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_056.jpg'>
+  <image file='data/positive/flickr_056.jpg'>
     <box top='23' left='141' width='192' height='183'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_057.jpg'>
+  <image file='data/positive/flickr_057.jpg'>
     <box top='49' left='43' width='218' height='157'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_058.jpg'>
+  <image file='data/positive/flickr_058.jpg'>
     <box top='106' left='35' width='184' height='235'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_059.jpg'>
+  <image file='data/positive/flickr_059.jpg'>
     <box top='12' left='97' width='230' height='228'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_063.jpg'>
+  <image file='data/positive/flickr_063.jpg'>
     <box top='0' left='66' width='191' height='192'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_064.jpg'>
+  <image file='data/positive/flickr_064.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_065.jpg'>
+  <image file='data/positive/flickr_065.jpg'>
     <box top='37' left='43' width='280' height='226'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_066.jpg'>
+  <image file='data/positive/flickr_066.jpg'>
     <box top='3' left='38' width='270' height='321'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_069.jpg'>
+  <image file='data/positive/flickr_069.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_072.jpg'>
+  <image file='data/positive/flickr_072.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_074.jpg'>
+  <image file='data/positive/flickr_074.jpg'>
     <box top='26' left='38' width='160' height='149'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_075.jpg'>
+  <image file='data/positive/flickr_075.jpg'>
     <box top='5' left='156' width='136' height='161'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_077.jpg'>
+  <image file='data/positive/flickr_077.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_078.jpg'>
+  <image file='data/positive/flickr_078.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_079.jpg'>
+  <image file='data/positive/flickr_079.jpg'>
     <box top='5' left='30' width='372' height='356'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_080.jpg'>
+  <image file='data/positive/flickr_080.jpg'>
     <box top='24' left='154' width='332' height='205'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_081.jpg'>
+  <image file='data/positive/flickr_081.jpg'>
     <box top='122' left='67' width='274' height='333'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_082.jpg'>
+  <image file='data/positive/flickr_082.jpg'>
     <box top='39' left='151' width='140' height='175'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_083.jpg'>
+  <image file='data/positive/flickr_083.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_084.jpg'>
+  <image file='data/positive/flickr_084.jpg'>
     <box top='-4' left='44' width='401' height='293'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_086.jpg'>
+  <image file='data/positive/flickr_086.jpg'>
     <box top='-6' left='232' width='190' height='226'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_087.jpg'>
+  <image file='data/positive/flickr_087.jpg'>
     <box top='86' left='243' width='97' height='133'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_088.jpg'>
+  <image file='data/positive/flickr_088.jpg'>
     <box top='34' left='73' width='104' height='122'>
       <label>corgi</label>
     </box>
@@ -361,34 +361,34 @@
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_089.jpg'>
+  <image file='data/positive/flickr_089.jpg'>
     <box top='59' left='203' width='149' height='190'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_090.jpg'>
+  <image file='data/positive/flickr_090.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_092.jpg'>
+  <image file='data/positive/flickr_092.jpg'>
     <box top='53' left='159' width='211' height='237'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_094.jpg'>
+  <image file='data/positive/flickr_094.jpg'>
     <box top='52' left='1' width='294' height='232'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_095.jpg'>
+  <image file='data/positive/flickr_095.jpg'>
     <box top='3' left='101' width='305' height='257'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_096.jpg'>
+  <image file='data/positive/flickr_096.jpg'>
     <box top='135' left='173' width='77' height='85'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/flickr_097.jpg'>
+  <image file='data/positive/flickr_097.jpg'>
     <box top='49' left='61' width='136' height='177'>
       <label>corgi</label>
     </box>
@@ -399,19 +399,19 @@
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_001.jpg'>
+  <image file='data/positive/google_001.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_002.jpg'>
+  <image file='data/positive/google_002.jpg'>
     <box top='83' left='174' width='455' height='522'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_003.jpg'>
+  <image file='data/positive/google_003.jpg'>
     <box top='82' left='289' width='854' height='802'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_004.jpg'>
+  <image file='data/positive/google_004.jpg'>
     <box top='110' left='268' width='295' height='397'>
       <label>corgi</label>
     </box>
@@ -422,124 +422,124 @@
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_005.jpg'>
+  <image file='data/positive/google_005.jpg'>
     <box top='40' left='77' width='461' height='469'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_006.jpg'>
+  <image file='data/positive/google_006.jpg'>
     <box top='9' left='123' width='159' height='190'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_007.jpg'>
+  <image file='data/positive/google_007.jpg'>
     <box top='9' left='44' width='126' height='128'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_008.jpg'>
+  <image file='data/positive/google_008.jpg'>
     <box top='40' left='1520' width='586' height='806'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_009.jpg'>
+  <image file='data/positive/google_009.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_010.jpg'>
+  <image file='data/positive/google_010.jpg'>
     <box top='15' left='180' width='331' height='316'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_011.jpg'>
+  <image file='data/positive/google_011.jpg'>
     <box top='-2' left='83' width='414' height='421'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_012.jpg'>
+  <image file='data/positive/google_012.jpg'>
     <box top='5' left='127' width='269' height='202'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_013.jpg'>
+  <image file='data/positive/google_013.jpg'>
     <box top='173' left='714' width='276' height='337'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_014.jpg'>
+  <image file='data/positive/google_014.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_015.jpg'>
+  <image file='data/positive/google_015.jpg'>
     <box top='37' left='390' width='172' height='202'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_016.jpg'>
+  <image file='data/positive/google_016.jpg'>
     <box top='38' left='2' width='346' height='410'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_018.jpg'>
+  <image file='data/positive/google_018.jpg'>
     <box top='61' left='665' width='698' height='783'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_019.jpg'>
+  <image file='data/positive/google_019.jpg'>
     <box top='2' left='96' width='257' height='334'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_020.jpg'>
+  <image file='data/positive/google_020.jpg'>
     <box top='32' left='93' width='213' height='211'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_021.jpg'>
+  <image file='data/positive/google_021.jpg'>
     <box top='80' left='22' width='532' height='410'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_022.jpg'>
+  <image file='data/positive/google_022.jpg'>
     <box top='130' left='125' width='371' height='322'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_023.jpg'>
+  <image file='data/positive/google_023.jpg'>
     <box top='80' left='130' width='429' height='357'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_024.jpg'>
+  <image file='data/positive/google_024.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_025.jpg'>
+  <image file='data/positive/google_025.jpg'>
     <box top='4' left='156' width='996' height='680'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_026.jpg'>
+  <image file='data/positive/google_026.jpg'>
     <box top='60' left='80' width='258' height='220'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_027.jpg'>
+  <image file='data/positive/google_027.jpg'>
     <box top='200' left='611' width='361' height='431'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_028.jpg'>
+  <image file='data/positive/google_028.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_029.jpg'>
+  <image file='data/positive/google_029.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_030.jpg'>
+  <image file='data/positive/google_030.jpg'>
     <box top='66' left='64' width='105' height='87'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_031.jpg'>
+  <image file='data/positive/google_031.jpg'>
     <box top='116' left='95' width='612' height='545'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_032.jpg'>
+  <image file='data/positive/google_032.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_033.jpg'>
+  <image file='data/positive/google_033.jpg'>
     <box top='24' left='53' width='113' height='125'>
       <label>corgi</label>
     </box>
@@ -547,102 +547,102 @@
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_034.jpg'>
+  <image file='data/positive/google_034.jpg'>
     <box top='3' left='377' width='455' height='478'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_035.jpg'>
+  <image file='data/positive/google_035.jpg'>
     <box top='136' left='643' width='321' height='353'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_036.jpg'>
+  <image file='data/positive/google_036.jpg'>
     <box top='7' left='61' width='284' height='316'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_037.jpg'>
+  <image file='data/positive/google_037.jpg'>
     <box top='42' left='8' width='124' height='159'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_038.jpg'>
+  <image file='data/positive/google_038.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_039.jpg'>
+  <image file='data/positive/google_039.jpg'>
     <box top='106' left='679' width='220' height='261'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_040.jpg'>
+  <image file='data/positive/google_040.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_041.jpg'>
+  <image file='data/positive/google_041.jpg'>
     <box top='171' left='1755' width='817' height='832'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_044.jpg'>
+  <image file='data/positive/google_044.jpg'>
     <box top='96' left='705' width='751' height='721'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_045.jpg'>
+  <image file='data/positive/google_045.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_048.jpg'>
+  <image file='data/positive/google_048.jpg'>
     <box top='70' left='88' width='266' height='237'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_049.jpg'>
+  <image file='data/positive/google_049.jpg'>
     <box top='624' left='764' width='529' height='645'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_050.jpg'>
+  <image file='data/positive/google_050.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_052.jpg'>
+  <image file='data/positive/google_052.jpg'>
     <box top='16' left='272' width='457' height='445'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_053.jpg'>
+  <image file='data/positive/google_053.jpg'>
     <box top='264' left='1924' width='1113' height='1397'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_054.jpg'>
+  <image file='data/positive/google_054.jpg'>
     <box top='1' left='38' width='275' height='212'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_056.jpg'>
+  <image file='data/positive/google_056.jpg'>
     <box top='50' left='120' width='485' height='499'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_057.jpg'>
+  <image file='data/positive/google_057.jpg'>
     <box top='4' left='148' width='247' height='273'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_058.jpg'>
+  <image file='data/positive/google_058.jpg'>
     <box top='6' left='314' width='181' height='193'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_059.jpg'>
+  <image file='data/positive/google_059.jpg'>
     <box top='66' left='124' width='235' height='247'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_061.jpg'>
+  <image file='data/positive/google_061.jpg'>
     <box top='136' left='94' width='137' height='107'>
       <label>corgi</label>
     </box>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_063.jpg'>
+  <image file='data/positive/google_063.jpg'>
   </image>
-  <image file='/Users/pgao/Dropbox/Private Files/Programming/corgi_detector/data/positive/google_064.jpg'>
+  <image file='data/positive/google_064.jpg'>
     <box top='2' left='140' width='175' height='193'>
       <label>corgi</label>
     </box>
