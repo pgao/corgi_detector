@@ -1,0 +1,2 @@
+/Users/pgao/Downloads/dlib-18.13/tools/imglab/build/CMakeFiles/imglab.dir
+/Users/pgao/Downloads/dlib-18.13/tools/imglab/build/dlib_build/CMakeFiles/dlib.dir
