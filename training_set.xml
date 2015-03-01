@@ -1,0 +1,1609 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='cars/training-set/neg-0.jpg'>
+  </image>
+  <image file='cars/training-set/neg-1.jpg'>
+  </image>
+  <image file='cars/training-set/neg-10.jpg'>
+  </image>
+  <image file='cars/training-set/neg-100.jpg'>
+  </image>
+  <image file='cars/training-set/neg-101.jpg'>
+  </image>
+  <image file='cars/training-set/neg-102.jpg'>
+  </image>
+  <image file='cars/training-set/neg-103.jpg'>
+  </image>
+  <image file='cars/training-set/neg-104.jpg'>
+  </image>
+  <image file='cars/training-set/neg-105.jpg'>
+  </image>
+  <image file='cars/training-set/neg-106.jpg'>
+  </image>
+  <image file='cars/training-set/neg-107.jpg'>
+  </image>
+  <image file='cars/training-set/neg-108.jpg'>
+  </image>
+  <image file='cars/training-set/neg-109.jpg'>
+  </image>
+  <image file='cars/training-set/neg-11.jpg'>
+  </image>
+  <image file='cars/training-set/neg-110.jpg'>
+  </image>
+  <image file='cars/training-set/neg-111.jpg'>
+  </image>
+  <image file='cars/training-set/neg-112.jpg'>
+  </image>
+  <image file='cars/training-set/neg-113.jpg'>
+  </image>
+  <image file='cars/training-set/neg-114.jpg'>
+  </image>
+  <image file='cars/training-set/neg-115.jpg'>
+  </image>
+  <image file='cars/training-set/neg-116.jpg'>
+  </image>
+  <image file='cars/training-set/neg-117.jpg'>
+  </image>
+  <image file='cars/training-set/neg-118.jpg'>
+  </image>
+  <image file='cars/training-set/neg-119.jpg'>
+  </image>
+  <image file='cars/training-set/neg-12.jpg'>
+  </image>
+  <image file='cars/training-set/neg-120.jpg'>
+  </image>
+  <image file='cars/training-set/neg-121.jpg'>
+  </image>
+  <image file='cars/training-set/neg-122.jpg'>
+  </image>
+  <image file='cars/training-set/neg-123.jpg'>
+  </image>
+  <image file='cars/training-set/neg-124.jpg'>
+  </image>
+  <image file='cars/training-set/neg-125.jpg'>
+  </image>
+  <image file='cars/training-set/neg-126.jpg'>
+  </image>
+  <image file='cars/training-set/neg-127.jpg'>
+  </image>
+  <image file='cars/training-set/neg-128.jpg'>
+  </image>
+  <image file='cars/training-set/neg-129.jpg'>
+  </image>
+  <image file='cars/training-set/neg-13.jpg'>
+  </image>
+  <image file='cars/training-set/neg-130.jpg'>
+  </image>
+  <image file='cars/training-set/neg-131.jpg'>
+  </image>
+  <image file='cars/training-set/neg-132.jpg'>
+  </image>
+  <image file='cars/training-set/neg-133.jpg'>
+  </image>
+  <image file='cars/training-set/neg-134.jpg'>
+  </image>
+  <image file='cars/training-set/neg-135.jpg'>
+  </image>
+  <image file='cars/training-set/neg-136.jpg'>
+  </image>
+  <image file='cars/training-set/neg-137.jpg'>
+  </image>
+  <image file='cars/training-set/neg-138.jpg'>
+  </image>
+  <image file='cars/training-set/neg-139.jpg'>
+  </image>
+  <image file='cars/training-set/neg-14.jpg'>
+  </image>
+  <image file='cars/training-set/neg-140.jpg'>
+  </image>
+  <image file='cars/training-set/neg-141.jpg'>
+  </image>
+  <image file='cars/training-set/neg-142.jpg'>
+  </image>
+  <image file='cars/training-set/neg-143.jpg'>
+  </image>
+  <image file='cars/training-set/neg-144.jpg'>
+  </image>
+  <image file='cars/training-set/neg-145.jpg'>
+  </image>
+  <image file='cars/training-set/neg-146.jpg'>
+  </image>
+  <image file='cars/training-set/neg-147.jpg'>
+  </image>
+  <image file='cars/training-set/neg-148.jpg'>
+  </image>
+  <image file='cars/training-set/neg-149.jpg'>
+  </image>
+  <image file='cars/training-set/neg-15.jpg'>
+  </image>
+  <image file='cars/training-set/neg-150.jpg'>
+  </image>
+  <image file='cars/training-set/neg-151.jpg'>
+  </image>
+  <image file='cars/training-set/neg-152.jpg'>
+  </image>
+  <image file='cars/training-set/neg-153.jpg'>
+  </image>
+  <image file='cars/training-set/neg-154.jpg'>
+  </image>
+  <image file='cars/training-set/neg-155.jpg'>
+  </image>
+  <image file='cars/training-set/neg-156.jpg'>
+  </image>
+  <image file='cars/training-set/neg-157.jpg'>
+  </image>
+  <image file='cars/training-set/neg-158.jpg'>
+  </image>
+  <image file='cars/training-set/neg-159.jpg'>
+  </image>
+  <image file='cars/training-set/neg-16.jpg'>
+  </image>
+  <image file='cars/training-set/neg-160.jpg'>
+  </image>
+  <image file='cars/training-set/neg-161.jpg'>
+  </image>
+  <image file='cars/training-set/neg-162.jpg'>
+  </image>
+  <image file='cars/training-set/neg-163.jpg'>
+  </image>
+  <image file='cars/training-set/neg-164.jpg'>
+  </image>
+  <image file='cars/training-set/neg-165.jpg'>
+  </image>
+  <image file='cars/training-set/neg-166.jpg'>
+  </image>
+  <image file='cars/training-set/neg-167.jpg'>
+  </image>
+  <image file='cars/training-set/neg-168.jpg'>
+  </image>
+  <image file='cars/training-set/neg-169.jpg'>
+  </image>
+  <image file='cars/training-set/neg-17.jpg'>
+  </image>
+  <image file='cars/training-set/neg-170.jpg'>
+  </image>
+  <image file='cars/training-set/neg-171.jpg'>
+  </image>
+  <image file='cars/training-set/neg-172.jpg'>
+  </image>
+  <image file='cars/training-set/neg-173.jpg'>
+  </image>
+  <image file='cars/training-set/neg-174.jpg'>
+  </image>
+  <image file='cars/training-set/neg-175.jpg'>
+  </image>
+  <image file='cars/training-set/neg-176.jpg'>
+  </image>
+  <image file='cars/training-set/neg-177.jpg'>
+  </image>
+  <image file='cars/training-set/neg-178.jpg'>
+  </image>
+  <image file='cars/training-set/neg-179.jpg'>
+  </image>
+  <image file='cars/training-set/neg-18.jpg'>
+  </image>
+  <image file='cars/training-set/neg-180.jpg'>
+  </image>
+  <image file='cars/training-set/neg-181.jpg'>
+  </image>
+  <image file='cars/training-set/neg-182.jpg'>
+  </image>
+  <image file='cars/training-set/neg-183.jpg'>
+  </image>
+  <image file='cars/training-set/neg-184.jpg'>
+  </image>
+  <image file='cars/training-set/neg-185.jpg'>
+  </image>
+  <image file='cars/training-set/neg-186.jpg'>
+  </image>
+  <image file='cars/training-set/neg-187.jpg'>
+  </image>
+  <image file='cars/training-set/neg-188.jpg'>
+  </image>
+  <image file='cars/training-set/neg-189.jpg'>
+  </image>
+  <image file='cars/training-set/neg-19.jpg'>
+  </image>
+  <image file='cars/training-set/neg-190.jpg'>
+  </image>
+  <image file='cars/training-set/neg-191.jpg'>
+  </image>
+  <image file='cars/training-set/neg-192.jpg'>
+  </image>
+  <image file='cars/training-set/neg-193.jpg'>
+  </image>
+  <image file='cars/training-set/neg-194.jpg'>
+  </image>
+  <image file='cars/training-set/neg-195.jpg'>
+  </image>
+  <image file='cars/training-set/neg-196.jpg'>
+  </image>
+  <image file='cars/training-set/neg-197.jpg'>
+  </image>
+  <image file='cars/training-set/neg-198.jpg'>
+  </image>
+  <image file='cars/training-set/neg-199.jpg'>
+  </image>
+  <image file='cars/training-set/neg-2.jpg'>
+  </image>
+  <image file='cars/training-set/neg-20.jpg'>
+  </image>
+  <image file='cars/training-set/neg-200.jpg'>
+  </image>
+  <image file='cars/training-set/neg-201.jpg'>
+  </image>
+  <image file='cars/training-set/neg-202.jpg'>
+  </image>
+  <image file='cars/training-set/neg-203.jpg'>
+  </image>
+  <image file='cars/training-set/neg-204.jpg'>
+  </image>
+  <image file='cars/training-set/neg-205.jpg'>
+  </image>
+  <image file='cars/training-set/neg-206.jpg'>
+  </image>
+  <image file='cars/training-set/neg-207.jpg'>
+  </image>
+  <image file='cars/training-set/neg-208.jpg'>
+  </image>
+  <image file='cars/training-set/neg-209.jpg'>
+  </image>
+  <image file='cars/training-set/neg-21.jpg'>
+  </image>
+  <image file='cars/training-set/neg-210.jpg'>
+  </image>
+  <image file='cars/training-set/neg-211.jpg'>
+  </image>
+  <image file='cars/training-set/neg-212.jpg'>
+  </image>
+  <image file='cars/training-set/neg-213.jpg'>
+  </image>
+  <image file='cars/training-set/neg-214.jpg'>
+  </image>
+  <image file='cars/training-set/neg-215.jpg'>
+  </image>
+  <image file='cars/training-set/neg-216.jpg'>
+  </image>
+  <image file='cars/training-set/neg-217.jpg'>
+  </image>
+  <image file='cars/training-set/neg-218.jpg'>
+  </image>
+  <image file='cars/training-set/neg-219.jpg'>
+  </image>
+  <image file='cars/training-set/neg-22.jpg'>
+  </image>
+  <image file='cars/training-set/neg-220.jpg'>
+  </image>
+  <image file='cars/training-set/neg-221.jpg'>
+  </image>
+  <image file='cars/training-set/neg-222.jpg'>
+  </image>
+  <image file='cars/training-set/neg-223.jpg'>
+  </image>
+  <image file='cars/training-set/neg-224.jpg'>
+  </image>
+  <image file='cars/training-set/neg-225.jpg'>
+  </image>
+  <image file='cars/training-set/neg-226.jpg'>
+  </image>
+  <image file='cars/training-set/neg-227.jpg'>
+  </image>
+  <image file='cars/training-set/neg-228.jpg'>
+  </image>
+  <image file='cars/training-set/neg-229.jpg'>
+  </image>
+  <image file='cars/training-set/neg-23.jpg'>
+  </image>
+  <image file='cars/training-set/neg-230.jpg'>
+  </image>
+  <image file='cars/training-set/neg-231.jpg'>
+  </image>
+  <image file='cars/training-set/neg-232.jpg'>
+  </image>
+  <image file='cars/training-set/neg-233.jpg'>
+  </image>
+  <image file='cars/training-set/neg-234.jpg'>
+  </image>
+  <image file='cars/training-set/neg-235.jpg'>
+  </image>
+  <image file='cars/training-set/neg-236.jpg'>
+  </image>
+  <image file='cars/training-set/neg-237.jpg'>
+  </image>
+  <image file='cars/training-set/neg-238.jpg'>
+  </image>
+  <image file='cars/training-set/neg-239.jpg'>
+  </image>
+  <image file='cars/training-set/neg-24.jpg'>
+  </image>
+  <image file='cars/training-set/neg-240.jpg'>
+  </image>
+  <image file='cars/training-set/neg-241.jpg'>
+  </image>
+  <image file='cars/training-set/neg-242.jpg'>
+  </image>
+  <image file='cars/training-set/neg-243.jpg'>
+  </image>
+  <image file='cars/training-set/neg-244.jpg'>
+  </image>
+  <image file='cars/training-set/neg-245.jpg'>
+  </image>
+  <image file='cars/training-set/neg-246.jpg'>
+  </image>
+  <image file='cars/training-set/neg-247.jpg'>
+  </image>
+  <image file='cars/training-set/neg-248.jpg'>
+  </image>
+  <image file='cars/training-set/neg-249.jpg'>
+  </image>
+  <image file='cars/training-set/neg-25.jpg'>
+  </image>
+  <image file='cars/training-set/neg-250.jpg'>
+  </image>
+  <image file='cars/training-set/neg-251.jpg'>
+  </image>
+  <image file='cars/training-set/neg-252.jpg'>
+  </image>
+  <image file='cars/training-set/neg-253.jpg'>
+  </image>
+  <image file='cars/training-set/neg-254.jpg'>
+  </image>
+  <image file='cars/training-set/neg-255.jpg'>
+  </image>
+  <image file='cars/training-set/neg-256.jpg'>
+  </image>
+  <image file='cars/training-set/neg-257.jpg'>
+  </image>
+  <image file='cars/training-set/neg-258.jpg'>
+  </image>
+  <image file='cars/training-set/neg-259.jpg'>
+  </image>
+  <image file='cars/training-set/neg-26.jpg'>
+  </image>
+  <image file='cars/training-set/neg-260.jpg'>
+  </image>
+  <image file='cars/training-set/neg-261.jpg'>
+  </image>
+  <image file='cars/training-set/neg-262.jpg'>
+  </image>
+  <image file='cars/training-set/neg-263.jpg'>
+  </image>
+  <image file='cars/training-set/neg-264.jpg'>
+  </image>
+  <image file='cars/training-set/neg-265.jpg'>
+  </image>
+  <image file='cars/training-set/neg-266.jpg'>
+  </image>
+  <image file='cars/training-set/neg-267.jpg'>
+  </image>
+  <image file='cars/training-set/neg-268.jpg'>
+  </image>
+  <image file='cars/training-set/neg-269.jpg'>
+  </image>
+  <image file='cars/training-set/neg-27.jpg'>
+  </image>
+  <image file='cars/training-set/neg-270.jpg'>
+  </image>
+  <image file='cars/training-set/neg-271.jpg'>
+  </image>
+  <image file='cars/training-set/neg-272.jpg'>
+  </image>
+  <image file='cars/training-set/neg-273.jpg'>
+  </image>
+  <image file='cars/training-set/neg-274.jpg'>
+  </image>
+  <image file='cars/training-set/neg-275.jpg'>
+  </image>
+  <image file='cars/training-set/neg-276.jpg'>
+  </image>
+  <image file='cars/training-set/neg-277.jpg'>
+  </image>
+  <image file='cars/training-set/neg-278.jpg'>
+  </image>
+  <image file='cars/training-set/neg-279.jpg'>
+  </image>
+  <image file='cars/training-set/neg-28.jpg'>
+  </image>
+  <image file='cars/training-set/neg-280.jpg'>
+  </image>
+  <image file='cars/training-set/neg-281.jpg'>
+  </image>
+  <image file='cars/training-set/neg-282.jpg'>
+  </image>
+  <image file='cars/training-set/neg-283.jpg'>
+  </image>
+  <image file='cars/training-set/neg-284.jpg'>
+  </image>
+  <image file='cars/training-set/neg-285.jpg'>
+  </image>
+  <image file='cars/training-set/neg-286.jpg'>
+  </image>
+  <image file='cars/training-set/neg-287.jpg'>
+  </image>
+  <image file='cars/training-set/neg-288.jpg'>
+  </image>
+  <image file='cars/training-set/neg-289.jpg'>
+  </image>
+  <image file='cars/training-set/neg-29.jpg'>
+  </image>
+  <image file='cars/training-set/neg-290.jpg'>
+  </image>
+  <image file='cars/training-set/neg-291.jpg'>
+  </image>
+  <image file='cars/training-set/neg-292.jpg'>
+  </image>
+  <image file='cars/training-set/neg-293.jpg'>
+  </image>
+  <image file='cars/training-set/neg-294.jpg'>
+  </image>
+  <image file='cars/training-set/neg-295.jpg'>
+  </image>
+  <image file='cars/training-set/neg-296.jpg'>
+  </image>
+  <image file='cars/training-set/neg-297.jpg'>
+  </image>
+  <image file='cars/training-set/neg-298.jpg'>
+  </image>
+  <image file='cars/training-set/neg-299.jpg'>
+  </image>
+  <image file='cars/training-set/neg-3.jpg'>
+  </image>
+  <image file='cars/training-set/neg-30.jpg'>
+  </image>
+  <image file='cars/training-set/neg-300.jpg'>
+  </image>
+  <image file='cars/training-set/neg-301.jpg'>
+  </image>
+  <image file='cars/training-set/neg-302.jpg'>
+  </image>
+  <image file='cars/training-set/neg-303.jpg'>
+  </image>
+  <image file='cars/training-set/neg-304.jpg'>
+  </image>
+  <image file='cars/training-set/neg-305.jpg'>
+  </image>
+  <image file='cars/training-set/neg-306.jpg'>
+  </image>
+  <image file='cars/training-set/neg-307.jpg'>
+  </image>
+  <image file='cars/training-set/neg-308.jpg'>
+  </image>
+  <image file='cars/training-set/neg-309.jpg'>
+  </image>
+  <image file='cars/training-set/neg-31.jpg'>
+  </image>
+  <image file='cars/training-set/neg-310.jpg'>
+  </image>
+  <image file='cars/training-set/neg-311.jpg'>
+  </image>
+  <image file='cars/training-set/neg-312.jpg'>
+  </image>
+  <image file='cars/training-set/neg-313.jpg'>
+  </image>
+  <image file='cars/training-set/neg-314.jpg'>
+  </image>
+  <image file='cars/training-set/neg-315.jpg'>
+  </image>
+  <image file='cars/training-set/neg-316.jpg'>
+  </image>
+  <image file='cars/training-set/neg-317.jpg'>
+  </image>
+  <image file='cars/training-set/neg-318.jpg'>
+  </image>
+  <image file='cars/training-set/neg-319.jpg'>
+  </image>
+  <image file='cars/training-set/neg-32.jpg'>
+  </image>
+  <image file='cars/training-set/neg-320.jpg'>
+  </image>
+  <image file='cars/training-set/neg-321.jpg'>
+  </image>
+  <image file='cars/training-set/neg-322.jpg'>
+  </image>
+  <image file='cars/training-set/neg-323.jpg'>
+  </image>
+  <image file='cars/training-set/neg-324.jpg'>
+  </image>
+  <image file='cars/training-set/neg-325.jpg'>
+  </image>
+  <image file='cars/training-set/neg-326.jpg'>
+  </image>
+  <image file='cars/training-set/neg-327.jpg'>
+  </image>
+  <image file='cars/training-set/neg-328.jpg'>
+  </image>
+  <image file='cars/training-set/neg-329.jpg'>
+  </image>
+  <image file='cars/training-set/neg-33.jpg'>
+  </image>
+  <image file='cars/training-set/neg-330.jpg'>
+  </image>
+  <image file='cars/training-set/neg-331.jpg'>
+  </image>
+  <image file='cars/training-set/neg-332.jpg'>
+  </image>
+  <image file='cars/training-set/neg-333.jpg'>
+  </image>
+  <image file='cars/training-set/neg-334.jpg'>
+  </image>
+  <image file='cars/training-set/neg-335.jpg'>
+  </image>
+  <image file='cars/training-set/neg-336.jpg'>
+  </image>
+  <image file='cars/training-set/neg-337.jpg'>
+  </image>
+  <image file='cars/training-set/neg-338.jpg'>
+  </image>
+  <image file='cars/training-set/neg-339.jpg'>
+  </image>
+  <image file='cars/training-set/neg-34.jpg'>
+  </image>
+  <image file='cars/training-set/neg-340.jpg'>
+  </image>
+  <image file='cars/training-set/neg-341.jpg'>
+  </image>
+  <image file='cars/training-set/neg-342.jpg'>
+  </image>
+  <image file='cars/training-set/neg-343.jpg'>
+  </image>
+  <image file='cars/training-set/neg-344.jpg'>
+  </image>
+  <image file='cars/training-set/neg-345.jpg'>
+  </image>
+  <image file='cars/training-set/neg-346.jpg'>
+  </image>
+  <image file='cars/training-set/neg-347.jpg'>
+  </image>
+  <image file='cars/training-set/neg-348.jpg'>
+  </image>
+  <image file='cars/training-set/neg-349.jpg'>
+  </image>
+  <image file='cars/training-set/neg-35.jpg'>
+  </image>
+  <image file='cars/training-set/neg-350.jpg'>
+  </image>
+  <image file='cars/training-set/neg-351.jpg'>
+  </image>
+  <image file='cars/training-set/neg-352.jpg'>
+  </image>
+  <image file='cars/training-set/neg-353.jpg'>
+  </image>
+  <image file='cars/training-set/neg-354.jpg'>
+  </image>
+  <image file='cars/training-set/neg-355.jpg'>
+  </image>
+  <image file='cars/training-set/neg-356.jpg'>
+  </image>
+  <image file='cars/training-set/neg-357.jpg'>
+  </image>
+  <image file='cars/training-set/neg-358.jpg'>
+  </image>
+  <image file='cars/training-set/neg-359.jpg'>
+  </image>
+  <image file='cars/training-set/neg-36.jpg'>
+  </image>
+  <image file='cars/training-set/neg-360.jpg'>
+  </image>
+  <image file='cars/training-set/neg-361.jpg'>
+  </image>
+  <image file='cars/training-set/neg-362.jpg'>
+  </image>
+  <image file='cars/training-set/neg-363.jpg'>
+  </image>
+  <image file='cars/training-set/neg-364.jpg'>
+  </image>
+  <image file='cars/training-set/neg-365.jpg'>
+  </image>
+  <image file='cars/training-set/neg-366.jpg'>
+  </image>
+  <image file='cars/training-set/neg-367.jpg'>
+  </image>
+  <image file='cars/training-set/neg-368.jpg'>
+  </image>
+  <image file='cars/training-set/neg-369.jpg'>
+  </image>
+  <image file='cars/training-set/neg-37.jpg'>
+  </image>
+  <image file='cars/training-set/neg-370.jpg'>
+  </image>
+  <image file='cars/training-set/neg-371.jpg'>
+  </image>
+  <image file='cars/training-set/neg-372.jpg'>
+  </image>
+  <image file='cars/training-set/neg-373.jpg'>
+  </image>
+  <image file='cars/training-set/neg-374.jpg'>
+  </image>
+  <image file='cars/training-set/neg-375.jpg'>
+  </image>
+  <image file='cars/training-set/neg-376.jpg'>
+  </image>
+  <image file='cars/training-set/neg-377.jpg'>
+  </image>
+  <image file='cars/training-set/neg-378.jpg'>
+  </image>
+  <image file='cars/training-set/neg-379.jpg'>
+  </image>
+  <image file='cars/training-set/neg-38.jpg'>
+  </image>
+  <image file='cars/training-set/neg-380.jpg'>
+  </image>
+  <image file='cars/training-set/neg-381.jpg'>
+  </image>
+  <image file='cars/training-set/neg-382.jpg'>
+  </image>
+  <image file='cars/training-set/neg-383.jpg'>
+  </image>
+  <image file='cars/training-set/neg-384.jpg'>
+  </image>
+  <image file='cars/training-set/neg-385.jpg'>
+  </image>
+  <image file='cars/training-set/neg-386.jpg'>
+  </image>
+  <image file='cars/training-set/neg-387.jpg'>
+  </image>
+  <image file='cars/training-set/neg-388.jpg'>
+  </image>
+  <image file='cars/training-set/neg-389.jpg'>
+  </image>
+  <image file='cars/training-set/neg-39.jpg'>
+  </image>
+  <image file='cars/training-set/neg-390.jpg'>
+  </image>
+  <image file='cars/training-set/neg-391.jpg'>
+  </image>
+  <image file='cars/training-set/neg-392.jpg'>
+  </image>
+  <image file='cars/training-set/neg-393.jpg'>
+  </image>
+  <image file='cars/training-set/neg-394.jpg'>
+  </image>
+  <image file='cars/training-set/neg-395.jpg'>
+  </image>
+  <image file='cars/training-set/neg-396.jpg'>
+  </image>
+  <image file='cars/training-set/neg-397.jpg'>
+  </image>
+  <image file='cars/training-set/neg-398.jpg'>
+  </image>
+  <image file='cars/training-set/neg-399.jpg'>
+  </image>
+  <image file='cars/training-set/neg-4.jpg'>
+  </image>
+  <image file='cars/training-set/neg-40.jpg'>
+  </image>
+  <image file='cars/training-set/neg-41.jpg'>
+  </image>
+  <image file='cars/training-set/neg-42.jpg'>
+  </image>
+  <image file='cars/training-set/neg-43.jpg'>
+  </image>
+  <image file='cars/training-set/neg-44.jpg'>
+  </image>
+  <image file='cars/training-set/neg-45.jpg'>
+  </image>
+  <image file='cars/training-set/neg-46.jpg'>
+  </image>
+  <image file='cars/training-set/neg-47.jpg'>
+  </image>
+  <image file='cars/training-set/neg-48.jpg'>
+  </image>
+  <image file='cars/training-set/neg-49.jpg'>
+  </image>
+  <image file='cars/training-set/neg-5.jpg'>
+  </image>
+  <image file='cars/training-set/neg-50.jpg'>
+  </image>
+  <image file='cars/training-set/neg-51.jpg'>
+  </image>
+  <image file='cars/training-set/neg-52.jpg'>
+  </image>
+  <image file='cars/training-set/neg-53.jpg'>
+  </image>
+  <image file='cars/training-set/neg-54.jpg'>
+  </image>
+  <image file='cars/training-set/neg-55.jpg'>
+  </image>
+  <image file='cars/training-set/neg-56.jpg'>
+  </image>
+  <image file='cars/training-set/neg-57.jpg'>
+  </image>
+  <image file='cars/training-set/neg-58.jpg'>
+  </image>
+  <image file='cars/training-set/neg-59.jpg'>
+  </image>
+  <image file='cars/training-set/neg-6.jpg'>
+  </image>
+  <image file='cars/training-set/neg-60.jpg'>
+  </image>
+  <image file='cars/training-set/neg-61.jpg'>
+  </image>
+  <image file='cars/training-set/neg-62.jpg'>
+  </image>
+  <image file='cars/training-set/neg-63.jpg'>
+  </image>
+  <image file='cars/training-set/neg-64.jpg'>
+  </image>
+  <image file='cars/training-set/neg-65.jpg'>
+  </image>
+  <image file='cars/training-set/neg-66.jpg'>
+  </image>
+  <image file='cars/training-set/neg-67.jpg'>
+  </image>
+  <image file='cars/training-set/neg-68.jpg'>
+  </image>
+  <image file='cars/training-set/neg-69.jpg'>
+  </image>
+  <image file='cars/training-set/neg-7.jpg'>
+  </image>
+  <image file='cars/training-set/neg-70.jpg'>
+  </image>
+  <image file='cars/training-set/neg-71.jpg'>
+  </image>
+  <image file='cars/training-set/neg-72.jpg'>
+  </image>
+  <image file='cars/training-set/neg-73.jpg'>
+  </image>
+  <image file='cars/training-set/neg-74.jpg'>
+  </image>
+  <image file='cars/training-set/neg-75.jpg'>
+  </image>
+  <image file='cars/training-set/neg-76.jpg'>
+  </image>
+  <image file='cars/training-set/neg-77.jpg'>
+  </image>
+  <image file='cars/training-set/neg-78.jpg'>
+  </image>
+  <image file='cars/training-set/neg-79.jpg'>
+  </image>
+  <image file='cars/training-set/neg-8.jpg'>
+  </image>
+  <image file='cars/training-set/neg-80.jpg'>
+  </image>
+  <image file='cars/training-set/neg-81.jpg'>
+  </image>
+  <image file='cars/training-set/neg-82.jpg'>
+  </image>
+  <image file='cars/training-set/neg-83.jpg'>
+  </image>
+  <image file='cars/training-set/neg-84.jpg'>
+  </image>
+  <image file='cars/training-set/neg-85.jpg'>
+  </image>
+  <image file='cars/training-set/neg-86.jpg'>
+  </image>
+  <image file='cars/training-set/neg-87.jpg'>
+  </image>
+  <image file='cars/training-set/neg-88.jpg'>
+  </image>
+  <image file='cars/training-set/neg-89.jpg'>
+  </image>
+  <image file='cars/training-set/neg-9.jpg'>
+  </image>
+  <image file='cars/training-set/neg-90.jpg'>
+  </image>
+  <image file='cars/training-set/neg-91.jpg'>
+  </image>
+  <image file='cars/training-set/neg-92.jpg'>
+  </image>
+  <image file='cars/training-set/neg-93.jpg'>
+  </image>
+  <image file='cars/training-set/neg-94.jpg'>
+  </image>
+  <image file='cars/training-set/neg-95.jpg'>
+  </image>
+  <image file='cars/training-set/neg-96.jpg'>
+  </image>
+  <image file='cars/training-set/neg-97.jpg'>
+  </image>
+  <image file='cars/training-set/neg-98.jpg'>
+  </image>
+  <image file='cars/training-set/neg-99.jpg'>
+  </image>
+  <image file='cars/training-set/pos-0.jpg'>
+    <box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-1.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-10.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-100.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-101.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-102.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-103.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-104.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-105.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-106.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-107.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-108.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-109.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-11.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-110.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-111.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-112.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-113.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-114.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-115.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-116.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-117.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-118.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-119.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-12.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-120.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-121.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-122.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-123.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-124.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-125.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-126.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-127.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-128.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-129.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-13.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-130.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-131.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-132.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-133.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-134.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-135.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-136.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-137.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-138.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-139.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-14.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-140.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-141.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-142.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-143.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-144.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-145.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-146.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-147.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-148.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-149.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-15.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-150.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-151.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-152.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-153.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-154.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-155.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-156.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-157.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-158.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-159.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-16.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-160.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-161.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-162.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-163.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-164.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-165.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-166.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-167.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-168.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-169.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-17.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-170.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-171.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-172.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-173.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-174.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-175.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-176.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-177.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-178.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-179.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-18.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-180.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-181.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-182.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-183.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-184.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-185.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-186.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-187.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-188.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-189.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-19.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-190.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-191.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-192.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-193.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-194.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-195.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-196.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-197.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-198.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-199.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-2.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-20.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-200.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-201.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-202.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-203.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-204.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-205.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-206.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-207.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-208.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-209.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-21.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-210.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-211.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-212.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-213.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-214.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-215.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-216.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-217.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-218.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-219.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-22.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-220.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-221.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-222.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-223.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-224.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-225.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-226.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-227.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-228.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-229.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-23.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-230.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-231.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-232.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-233.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-234.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-235.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-236.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-237.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-238.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-239.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-24.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-240.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-241.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-242.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-243.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-244.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-245.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-246.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-247.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-248.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-249.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-25.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-250.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-251.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-252.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-253.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-254.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-255.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-256.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-257.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-258.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-259.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-26.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-260.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-261.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-262.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-263.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-264.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-265.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-266.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-267.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-268.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-269.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-27.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-270.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-271.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-272.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-273.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-274.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-275.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-276.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-277.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-278.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-279.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-28.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-280.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-281.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-282.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-283.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-284.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-285.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-286.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-287.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-288.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-289.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-29.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-290.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-291.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-292.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-293.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-294.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-295.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-296.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-297.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-298.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-299.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-3.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-30.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-300.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-301.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-302.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-303.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-304.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-305.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-306.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-307.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-308.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-309.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-31.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-310.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-311.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-312.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-313.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-314.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-315.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-316.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-317.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-318.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-319.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-32.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-320.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-321.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-322.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-323.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-324.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-325.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-326.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-327.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-328.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-329.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-33.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-330.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-331.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-332.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-333.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-334.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-335.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-336.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-337.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-338.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-339.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-34.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-340.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-341.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-342.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-343.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-344.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-345.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-346.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-347.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-348.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-349.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-35.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-350.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-351.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-352.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-353.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-354.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-355.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-356.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-357.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-358.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-359.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-36.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-360.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-361.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-362.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-363.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-364.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-365.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-366.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-367.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-368.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-369.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-37.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-370.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-371.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-372.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-373.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-374.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-375.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-376.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-377.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-378.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-379.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-38.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-380.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-381.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-382.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-383.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-384.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-385.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-386.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-387.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-388.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-389.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-39.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-390.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-391.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-392.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-393.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-394.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-395.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-396.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-397.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-398.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-399.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-4.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-40.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-41.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-42.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-43.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-44.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-45.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-46.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-47.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-48.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-49.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-5.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-50.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-51.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-52.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-53.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-54.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-55.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-56.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-57.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-58.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-59.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-6.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-60.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-61.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-62.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-63.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-64.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-65.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-66.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-67.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-68.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-69.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-7.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-70.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-71.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-72.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-73.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-74.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-75.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-76.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-77.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-78.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-79.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-8.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-80.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-81.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-82.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-83.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-84.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-85.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-86.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-87.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-88.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-89.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-9.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-90.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-91.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-92.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-93.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-94.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-95.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-96.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-97.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-98.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+  <image file='cars/training-set/pos-99.jpg'><box top='0' left='0' width='100' height='40'/>
+  </image>
+</images>
+</dataset>
